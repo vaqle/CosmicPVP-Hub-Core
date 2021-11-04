@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/vaqle/CosmicPVP-Hub-Core
+build-by-default: true
+branches:
+- main
+projects:
+  CosmicPVP-Hub-Core:
+    path: ""
+...
